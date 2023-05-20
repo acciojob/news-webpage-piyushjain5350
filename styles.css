@@ -6,32 +6,21 @@ h1{
 	width:100vw;
 	background-color:#011e29;
 	color:white;
-	position:sticky;
-	top:0px;
-	left:0px;
-	height:50px;
+	height:80px;
+	text-align:center;
+	padding:25px;
 }
 main{
 	 display: flex;
-     justify-content: space-between;
+     justify-content:center;
      align-items: center;
 }
 img{
-	width:100px;
-	height:100px;
+	width:150px;
+	height:150px;
 }
-list{
-	width:33vw;
-	background-color:white;
-	border:1px solid black;
-}
-article{
-	width:33vw;
-	background-color:white;
-	border:1px solid black;
-}
-photo{
-	width:33vw;
+.list,.article,.photo{
+	width:33%;
 	background-color:white;
 	border:1px solid black;
 }

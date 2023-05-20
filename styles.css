@@ -20,7 +20,12 @@ img{
 	height:150px;
 }
 .list,.article,.photo{
-	width:33%;
+	width:33vw;
 	background-color:white;
 	border:1px solid black;
+}
+.list{
+	position:relative;
+	top:0;
+	left:0;
 }

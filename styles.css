@@ -7,9 +7,7 @@ header{
 	background:#011e29;
 	color:white;
 	height:50px;
-	display:flex;
-	align-items:center;
-	justify-content:center;
+	text-align:center;
 	font-size:30px;	
 }
 body{
@@ -37,11 +35,9 @@ img{
     border-radius: 8px;
 	background:white;
 	width:25%;
-	display:flex;
-	align-items:center;
-	flex-direction:column;
+	text-align:center;
 }
-h2{
+h3{
 	text-align:center;
 }
 .article{
